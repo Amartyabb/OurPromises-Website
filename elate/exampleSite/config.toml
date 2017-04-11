@@ -2,7 +2,7 @@
 baseurl = "localhost:1313"
 title = "Elate theme"
 languageCode = "en-us"
-theme = "elate"
+theme = "hugo-elate-theme"
 
 [params]
   
@@ -11,13 +11,13 @@ theme = "elate"
   # Meta
   author = ""
   description = ""
-  email = "ourpromisesio@gmail.com"
+  email = ""
   # Navigation
   [params.navigation]
-    brand = "Our Promises"
+    brand = "Elate"
     home = "Home"
     work = "Work"
-    testimonials = "About Us"
+    testimonials = "Testimonials"
     services = "Services"
     about = "About"
     contact = "Contact"
@@ -39,8 +39,8 @@ theme = "elate"
   
   # Hero section
   [params.hero]
-    title = "Our Promises"
-    subtitle = 'You Can Bet We Keep Them <a  target="_blank"></a>'
+    title = "Do something you love."
+    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -50,7 +50,7 @@ theme = "elate"
     title = "Plan"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
-    button = "Click Me"
+    button = "Get In Touch"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
@@ -81,15 +81,14 @@ theme = "elate"
   [params.work]
     enable = true
     title = "Work"
-    description = "Here are some of our completed projects."
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "tenderyears.jpg"
+      img = "work_1.jpg"
       alt = "Image2"
-      url = "#"
-      title = "Tender Years"
-      subtitle = "www.tenderyearsbook.org"
+      title = "Project 1"
+      subtitle = "Branding"
 
     [[params.work.row]]
       img = "work_2.jpg"
@@ -124,8 +123,8 @@ theme = "elate"
   # Testimonials section
   [params.testimonials]
     enable = true
-    title = "About Us"
-    description = "Who are we? What do we do?"
+    title = "Testimonials"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.testimonials.item]]
       quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
@@ -152,7 +151,7 @@ theme = "elate"
   [params.services]
     enable = true
     title = "Services"
-    description = "What we can do for you"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
       title = "Brand &amp; Strategy"
@@ -180,10 +179,10 @@ theme = "elate"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.about.item]]
-      name = "Amartya Banerjee"
-      position = "Web Developer, CEO"
-      description = "Cool Kid"
-      img = "Amartya.jpg"
+      name = "Jean Smith"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person1.jpg"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
@@ -192,10 +191,10 @@ theme = "elate"
       ]
 
     [[params.about.item]]
-      name = "Abhi Das"
-      position = "Web Designer, CEO"
-      description = "Cool Kid"
-      img = "Abhi.jpg"
+      name = "Rob Smith"
+      position = "Web Developer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person2.jpg"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],
@@ -204,10 +203,10 @@ theme = "elate"
       ]
 
     [[params.about.item]]
-      name = "Gage Banerjee"
-      position = "Mastermind"
-      description = "Doggo Shiba"
-      img = "Gage.jpg"
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
