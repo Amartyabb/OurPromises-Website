@@ -58,7 +58,7 @@ theme = "hugo-elate-theme"
     title = "The Team"
     description = "We are Amartya and Abhi, two teenagers in Northern Virginia with the vision of making a difference in communities around the world. We are in 10th grade at high schools in Fairfax County, VA. We both are curious about the world around us and we love to explore new places. We also enjoy photography, travel, and playing video games in our free time; however, most of all we want to benefit people and make the world a better place."
     url = "#"
-    button = "Click Me"
+    button = "Why Us?"
     icon = "icon-users"
     img = "img_8.jpg"
 
@@ -155,13 +155,13 @@ theme = "hugo-elate-theme"
     description = "What we can do for you"
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Content &amp; Strategy"
+      description = "We will publish your content is the most efficient way possible to advertise to the rest of the world. We will make sure to perfect your product content to promote your cause."
       icon = "icon-anchor"
 
     [[params.services.item]]
       title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = "We are skilled in web development and can create a site perfect for you with sleek, new features. We have much experience creating sites and are very familiar with web interfaces. We will continue to develop until the site is of your liking."
       icon = "icon-layers2"
     [[params.services.item]]
       title = "Photo &amp; Video"
