@@ -152,7 +152,7 @@ theme = "hugo-elate-theme"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        ["icon-facebook", "https://www.facebook.com/profile.php?id=100011150208688"],
         ["icon-linkedin", "#"]
       ]
 
@@ -164,7 +164,7 @@ theme = "hugo-elate-theme"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        ["icon-facebook", "https://www.facebook.com/abhxi"],
         ["icon-github", "#"]
       ]
 
