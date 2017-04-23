@@ -87,39 +87,25 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "tenderyears.jpg"
       alt = "Image2"
-      url = "#"
+      url = "https://tenderyearsbook.org"
+      button = "Go to Tender Years Site"
       title = "Tender Years"
       subtitle = "www.tenderyearsbook.org"
 
     [[params.work.row]]
-      img = "work_2.jpg"
+      img = "nonprof.jpg"
       alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      title = "Non-Profit Search Engine"
+      button = "Coming Soon"
+      subtitle = "Under Construction"
 
-    [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+  [[params.work.row]]
+      img = "nonprof.jpg"
+      alt = "Image2"
+      title = "Non-Profit Search Engine"
+      button = "Coming Soon"
+      subtitle = "Under Construction"
 
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
 
  
     
@@ -241,10 +227,10 @@ theme = "hugo-elate-theme"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
+        
+        ["icon-phone", "(571)-375-8078"],
         ["icon-envelope", "Ourpromisesio@gmail.com"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-facebook-square", '<a href="https://www.facebook.com/ourpromises.io" target="_blank">Our Promises Facebook Page</a>']
       ]
 
     name = "Name"
