@@ -202,7 +202,7 @@ theme = "hugo-elate-theme"
 
     [[params.counters.item]]
       description = "GB of space"
-      icon = "icon-upload"
+      icon = "icon-floppy-o"
       from = 0
       to = 289
       interval = 50
